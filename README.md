@@ -76,34 +76,28 @@ We'd like to thank the following youtube channels for helping us with getting to
 https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg
 https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg
 
-We'd like to thank ... for testing our game.
+We'd like to thank Bo for testing our game extensively.
 
 We'd like to thank everybody that provides free sprites and sound effects, without them this game wouldn't be what it is today.
 
 # Credits
 
-Images/sprites
+_Images/sprites_
 
 Background:
 https://craftpix.net/freebies/free-halloween-2d-game-backgrounds/
 
-
 Player: 
 https://free-game-assets.itch.io/free-2d-woman-warrior-sprite-sheets
 
-
 Zombie:
-
 https://free-game-assets.itch.io/free-2d-game-zombie-sprite/
-
 
 Orks:
 https://free-game-assets.itch.io/2d-trolls-free-sprite
 
-
 Desert Robot:
 https://free-game-assets.itch.io/free-2d-robot-sprite
-
 
 Potion:
 https://free-game-assets.itch.io/free-game-icons-potions/download/eyJleHBpcmVzIjoxNTQ3NTU5MTM0LCJpZCI6MTQ1NTE1fQ%3d%3d%2e%2fmgG4VvNONaNJRnbDatB0tPNOd8%3d
@@ -111,17 +105,14 @@ https://free-game-assets.itch.io/free-game-icons-potions/download/eyJleHBpcmVzIj
 Arrow:
 https://free-game-assets.itch.io/free-2d-woman-warrior-sprite-sheets
 
-
 Powerup:
 https://pngimage.net/fire-arrow-png-3
 
-Platforms/ground tiles/visualstuff:
-
+Platforms/ground tile/visual stuff:
 https://www.gameart2d.com/free-graveyard-platformer-tileset.html
 
 
-
-Sound effects:
+_Sound effects_
 
 Bg music:
 https://opengameart.org/content/spooky-dungeon
@@ -130,19 +121,25 @@ Starting sound:
 https://opengameart.org/content/voice-samples
 
 Arrow shooting:
+https://freesound.org/
 
 Zombie hit:
+https://freesound.org/
 
 Ork hit:
+https://freesound.org/
 
 Desert Robot hit:
+https://freesound.org/
 
 Player hit:
+https://freesound.org/people/cabled_mess/sounds/350984/
 
 Losing sound:
 https://freesound.org/people/Mattix/sounds/435196/
-Winning sound:
 
+Winning sound:
+https://freesound.org/people/bboyjoe_15/sounds/321917/
 
 
 
