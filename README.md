@@ -57,14 +57,16 @@ The goal is to kill all the enemies using either the attack or the powerup attac
 *Controls/operation:*
 There are two ways to control the character in the game. Either using the arrow or WASD keys on the players keyboard. Each key's function is defined below.
 
+    'return' (enter) = start game
     'esc' = escape/quit game
     'spacebar' = shoot player's attack
+    'p' = pause the game
+    'q' = escape/quit game
 
     'w' = jump
     'a' = move left
     's' = _does nothing_
     'd' = move right
-    'q' = escape/quit game
     'e' = shoot player's powerup attack
 
     Up arrow = jump
