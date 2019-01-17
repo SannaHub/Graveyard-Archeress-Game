@@ -30,8 +30,8 @@ It worked on both Windows and MacOs.
 
 Tested with the following IDE's:
 
-    ○ Python's build-in IDLE
-    ○ Anaconda's Spyder
+    ○ Python's build-in IDLE 3.7.1
+    ○ Anaconda's Spyder 3.3.2
     ○ PyCharm 3.4
     
 Python was downloaded using this site: https://www.python.org/downloads/
@@ -85,61 +85,61 @@ We'd like to thank everybody that provides free sprites and sound effects, witho
 _Images/sprites_
 
 Background:
-https://craftpix.net/freebies/free-halloween-2d-game-backgrounds/
+[Free Game Assets (GUI, Sprite, Tilesets)]. (2018). _Parallax Halloween 2D Game Backgrounds_ [Image]. Retrieved from https://free-game-assets.itch.io/parallax-halloween-2d-game-backgrounds
 
 Player: 
-https://free-game-assets.itch.io/free-2d-woman-warrior-sprite-sheets
+[Free Game Assets (GUI, Sprite, Tilesets)]. (2017). _Free 2D Woman Warrior Sprite Sheets_ [Images]. Retrieved from https://free-game-assets.itch.io/free-2d-woman-warrior-sprite-sheets
 
 Zombie:
-https://free-game-assets.itch.io/free-2d-game-zombie-sprite/
+[Free Game Assets (GUI, Sprite, Tilesets)]. (2016). _Free 2D Game Zombie Sprite_ [Images]. Retrieved from https://free-game-assets.itch.io/free-2d-game-zombie-sprite/
 
 Orks:
-https://free-game-assets.itch.io/2d-trolls-free-sprite
+[Free Game Assets (GUI, Sprite, Tilesets)]. (2017). _2D Trolls Free Sprite_ [Images]. Retrieved from https://free-game-assets.itch.io/2d-trolls-free-sprite
 
-Desert Robot:
-https://free-game-assets.itch.io/free-2d-robot-sprite
+Desert Robot + enemy shot:
+[Free Game Assets (GUI, Sprite, Tilesets)]. (2018). _Free 2D Robot Sprite_ [Images]. Retrieved from https://free-game-assets.itch.io/free-2d-robot-sprite
 
 Potion:
-https://free-game-assets.itch.io/free-game-icons-potions/download/eyJleHBpcmVzIjoxNTQ3NTU5MTM0LCJpZCI6MTQ1NTE1fQ%3d%3d%2e%2fmgG4VvNONaNJRnbDatB0tPNOd8%3d
+[Free Game Assets (GUI, Sprite, Tilesets)]. (2016). _Free Game Icons Potions_ [Image]. Retrieved from https://free-game-assets.itch.io/free-game-icons-potions/download/eyJleHBpcmVzIjoxNTQ3NTU5MTM0LCJpZCI6MTQ1NTE1fQ%3d%3d%2e%2fmgG4VvNONaNJRnbDatB0tPNOd8%3d
 
 Arrow:
-https://free-game-assets.itch.io/free-2d-woman-warrior-sprite-sheets
+[Free Game Assets (GUI, Sprite, Tilesets)]. (2017). _Free 2D Woman Warrior Sprite Sheets_ [Image]. Retrieved from https://free-game-assets.itch.io/free-2d-woman-warrior-sprite-sheets
 
-Powerup:
-https://pngimage.net/fire-arrow-png-3
+Powerup arrow:
+[Flaming Arrow Productions]. (n.d.). _FIRE ARROW PNG 3_ [Image].  Retrieved from https://pngimage.net/fire-arrow-png-3
 
 Platforms/ground tile/visual stuff:
-https://www.gameart2d.com/free-graveyard-platformer-tileset.html
+FREE GRAVEYARD PLATFORMER TILESET [Images]. (n.d.). Retrieved from https://www.gameart2d.com/free-graveyard-platformer-tileset.html
 
 
 _Sound effects_
 
-Bg music:
-https://opengameart.org/content/spooky-dungeon
+Background music:
+[You're Perfect Studio]. (2018). _Spooky Dungeon_ [Audio]. Retrieved from https://opengameart.org/content/spooky-dungeon
 
 Starting sound:
-https://opengameart.org/content/voice-samples
+[kurt]. (2011). _Voice Samples_ [Audio]. Retrieved from https://opengameart.org/content/voice-samples
 
 Arrow shooting:
-https://freesound.org/
+[Davidsraba]. (2016). _Shoot Sound_ [Audio]. Retrieved from https://freesound.org/people/Davidsraba/sounds/347171/
 
 Zombie hit:
-https://freesound.org/
+[Sound of a burp] [Audio]. (n.d.). Retrieved from https://freesound.org/
 
 Ork hit:
-https://freesound.org/
+[Sound of a monster getting hit] [Audio]. (n.d.). Retrieved from https://freesound.org/
 
 Desert Robot hit:
-https://freesound.org/
+[Sound of a monster getting hit] [Audio]. (n.d.). Retrieved from https://freesound.org/
 
 Player hit:
-https://freesound.org/people/cabled_mess/sounds/350984/
+[cabled_mess]. (2016). _Lose (Retro video game SFX) » Lose_C_03_ [Audio]. Retrieved from https://freesound.org/people/cabled_mess/sounds/350984/
 
 Losing sound:
-https://freesound.org/people/Mattix/sounds/435196/
+[Mattix]. (2018). _GAME_OVER_05_LOST_CONSCIOUSNESS.wav_ [Audio]. Retrieved from https://freesound.org/people/Mattix/sounds/435196/
 
 Winning sound:
-https://freesound.org/people/bboyjoe_15/sounds/321917/
+[bboyjoe_15]. (2015). _Mortal Kombat sfx » You Win.mp3_ [Audio]. Retrieved from https://freesound.org/people/bboyjoe_15/sounds/321917/
 
 
 
