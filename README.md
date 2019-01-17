@@ -81,9 +81,11 @@ After running the code succesfully for the first time, check if the game is not 
 We'd like to thank the following youtube channels for helping us with getting to know the pygame module:
 
 https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg
+
 https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg
 
 https://www.youtube.com/watch?v=K5F-aGDIYaM
+
 
 We'd like to thank Bo for testing our game extensively.
 
