@@ -15,7 +15,7 @@ A game code created by the Lyon group for our Basic Programming group project
 This code serves as a platformer, PvE (player versus enemy) game. The code is written using the python programming language and pygames as the main library. The purpose of this game is to defeat all the enemies without the character dying. A powerup is available throughout the game. This powerup attack decreases the enemies health more than the normal player attack. This powerup is in the form of a potion and can be found across the screen. There is more than one potion, each potion gives the player one chance at a special attack.
 
 # Requirements
-*Libraries:*
+*Libraries needed:*
 
     ○ Pygame 1.9.4
     ○ Random
@@ -34,13 +34,20 @@ Tested with the following IDE's:
     ○ Anaconda's Spyder 3.3.2
     ○ PyCharm 3.4
     
-Python was downloaded using this site: https://www.python.org/downloads/
+Download python + IDLE from https://www.python.org/downloads/
 
-Anaconda from https://www.anaconda.com/download/#macos
+Download anaconda from https://www.anaconda.com/download/#macos
 
-Python's IDLE was the one used to create this game. 
+To download pygame (in terminal):
+
+    pip3 install pygame
+
+
+Python's IDLE was used to create this game. 
 
 The code works fine in Spyder _ONLY_ if you change the last sentence from 'sys.exit()' to 'exit()'. It is unknown to us why this is a requirement, but after some research, we suspect it has something to do with the implementation detail of python in IPython and CPython.
+
+The code works in PyCharm.
 
 # Instructions
 
