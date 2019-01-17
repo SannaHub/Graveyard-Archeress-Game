@@ -103,6 +103,9 @@ Powerup arrow:
 Background:
 [Free Game Assets (GUI, Sprite, Tilesets)]. (2018). _Parallax Halloween 2D Game Backgrounds_ [Image]. Retrieved from https://free-game-assets.itch.io/parallax-halloween-2d-game-backgrounds
 
+Background 2:
+[Stylus Head]. (2017). _Halloween 2D Background_ [Image]. Retrieved from: https://www.artstation.com/artwork/vrO3E
+
 Player: 
 [Free Game Assets (GUI, Sprite, Tilesets)]. (2017). _Free 2D Woman Warrior Sprite Sheets_ [Images]. Retrieved from https://free-game-assets.itch.io/free-2d-woman-warrior-sprite-sheets
 
