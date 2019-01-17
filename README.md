@@ -80,9 +80,12 @@ We'd like to thank Bo for testing our game extensively.
 
 We'd like to thank everybody that provides free sprites and sound effects, without them this game wouldn't be what it is today.
 
-# Credits
+# Reference List
 
 _Images/sprites_
+
+Powerup arrow:
+[Flaming Arrow Productions]. (n.d.). _FIRE ARROW PNG 3_ [Image].  Retrieved from https://pngimage.net/fire-arrow-png-3
 
 Background:
 [Free Game Assets (GUI, Sprite, Tilesets)]. (2018). _Parallax Halloween 2D Game Backgrounds_ [Image]. Retrieved from https://free-game-assets.itch.io/parallax-halloween-2d-game-backgrounds
@@ -105,41 +108,38 @@ Potion:
 Arrow:
 [Free Game Assets (GUI, Sprite, Tilesets)]. (2017). _Free 2D Woman Warrior Sprite Sheets_ [Image]. Retrieved from https://free-game-assets.itch.io/free-2d-woman-warrior-sprite-sheets
 
-Powerup arrow:
-[Flaming Arrow Productions]. (n.d.). _FIRE ARROW PNG 3_ [Image].  Retrieved from https://pngimage.net/fire-arrow-png-3
-
 Platforms/ground tile/visual stuff:
 FREE GRAVEYARD PLATFORMER TILESET [Images]. (n.d.). Retrieved from https://www.gameart2d.com/free-graveyard-platformer-tileset.html
 
 
 _Sound effects_
 
-Background music:
-[You're Perfect Studio]. (2018). _Spooky Dungeon_ [Audio]. Retrieved from https://opengameart.org/content/spooky-dungeon
-
-Starting sound:
-[kurt]. (2011). _Voice Samples_ [Audio]. Retrieved from https://opengameart.org/content/voice-samples
-
-Arrow shooting:
-[Davidsraba]. (2016). _Shoot Sound_ [Audio]. Retrieved from https://freesound.org/people/Davidsraba/sounds/347171/
-
-Zombie hit:
-[Sound of a burp] [Audio]. (n.d.). Retrieved from https://freesound.org/
-
-Ork hit:
-[Sound of a monster getting hit] [Audio]. (n.d.). Retrieved from https://freesound.org/
-
-Desert Robot hit:
-[Sound of a monster getting hit] [Audio]. (n.d.). Retrieved from https://freesound.org/
+Winning sound:
+[bboyjoe_15]. (2015). _Mortal Kombat sfx » You Win.mp3_ [Audio]. Retrieved from https://freesound.org/people/bboyjoe_15/sounds/321917/
 
 Player hit:
 [cabled_mess]. (2016). _Lose (Retro video game SFX) » Lose_C_03_ [Audio]. Retrieved from https://freesound.org/people/cabled_mess/sounds/350984/
 
+Arrow shooting:
+[Davidsraba]. (2016). _Shoot Sound_ [Audio]. Retrieved from https://freesound.org/people/Davidsraba/sounds/347171/
+
+Starting sound:
+[kurt]. (2011). _Voice Samples_ [Audio]. Retrieved from https://opengameart.org/content/voice-samples
+
 Losing sound:
 [Mattix]. (2018). _GAME_OVER_05_LOST_CONSCIOUSNESS.wav_ [Audio]. Retrieved from https://freesound.org/people/Mattix/sounds/435196/
 
-Winning sound:
-[bboyjoe_15]. (2015). _Mortal Kombat sfx » You Win.mp3_ [Audio]. Retrieved from https://freesound.org/people/bboyjoe_15/sounds/321917/
+Zombie hit:
+[Sound of a burp] [Audio]. (n.d.). Retrieved from https://freesound.org/
+
+Desert Robot hit:
+[Sound of a monster getting hit] [Audio]. (n.d.). Retrieved from https://freesound.org/
+
+Ork hit:
+[Sound of a monster getting hit] [Audio]. (n.d.). Retrieved from https://freesound.org/
+
+Background music:
+[You're Perfect Studio]. (2018). _Spooky Dungeon_ [Audio]. Retrieved from https://opengameart.org/content/spooky-dungeon
 
 
 
